@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 11 Feb 2026 23:21:16 at https://iogame.online/pare-de-deixar-seu-dinheiro-murchar-na-poupanca/?fbclid=IwdGRzaAP1oU1jbGNrA_WhPWV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHnn6svMVbQuJXOhYDOdtrcF5tB6olBR0AwtnOn7lcO6Qd8WanLNXuIA510D9_aem_rH_P2H_5cXvJxq-_JOpjRw +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://iogame.online/pare-de-deixar-seu-dinheiro-murchar-na-poupanca/?fbclid=IwdGRzaAP1oU1jbGNrA_WhPWV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHnn6svMVbQuJXOhYDOdtrcF5tB6olBR0AwtnOn7lcO6Qd8WanLNXuIA510D9_aem_rH_P2H_5cXvJxq-_JOpjRw -O1 "C:\My Web Sites\add" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:21:26	Error: 	"Not Found" (404) at link https://iogame.online/pare-de-deixar-seu-dinheiro-murchar-na-poupanca/e (from https://iogame.online/wp-content/plugins/cookie-notice/js/front.min.js?ver=2.5.9)
+23:21:26	Error: 	"Not Found" (404) at link https://iogame.online/pare-de-deixar-seu-dinheiro-murchar-na-poupanca/n,window.location.origin (from https://iogame.online/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.33.5)
+23:21:26	Error: 	"Not Found" (404) at link https://iogame.online/pare-de-deixar-seu-dinheiro-murchar-na-poupanca/t,window.location.origin (from https://iogame.online/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.33.5)
+23:21:26	Error: 	"Not Found" (404) at link https://iogame.online/pare-de-deixar-seu-dinheiro-murchar-na-poupanca/plugins.php (from https://iogame.online/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.33.5)
+23:21:27	Error: 	"Not Found" (404) at link https://iogame.online/pare-de-deixar-seu-dinheiro-murchar-na-poupanca/OPR/ (from https://iogame.online/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.33.5)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 seconds : 43 links scanned, 37 files written (1567812 bytes overall) [865955 bytes received at 78723 bytes/sec], 1937388 bytes transferred using HTTP compression in 35 files, ratio 29%, 11.0 requests per connection
+(5 errors, 0 warnings, 0 messages)
